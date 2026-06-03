@@ -1,16 +1,16 @@
 function Navbar() {
   return (
-    <nav className="navbar">
-      <h2>KartavyaMithra</h2>
+    <nav>
+      <h2>KartavyaMitra</h2>
 
-      <div className="nav-links">
-        <span>Home</span>
-        <span>Activities</span>
-        <span>Dashboard</span>
-        <button>Join Now</button>
-      </div>
+      <ul>
+        <li>Home</li>
+        <li>Activities</li>
+        <li>Dashboard</li>
+        <li>Contact</li>
+      </ul>
     </nav>
-  );
+  )
 }
 
-export default Navbar;
+export default Navbar

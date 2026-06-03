@@ -1,24 +1,22 @@
 import ActivityCard from "./ActivityCard";
 function Features() {
   return (
-   <section>
-  <h2>Upcoming Activities</h2>
+    <section>
+      <div>
+        <h3>Activity Discovery</h3>
+        <p>Find nearby social activities.</p>
+      </div>
 
-  <ActivityCard
-    title="Beach Cleanup Drive"
-    location="Visakhapatnam"
-  />
+      <div>
+        <h3>Volunteer Participation</h3>
+        <p>Join community initiatives.</p>
+      </div>
 
-  <ActivityCard
-    title="Tree Plantation"
-    location="Vijayawada"
-  />
-
-  <ActivityCard
-    title="Blood Donation Camp"
-    location="Hyderabad"
-  />
-</section>
+      <div>
+        <h3>Impact Tracking</h3>
+        <p>Measure your social contribution.</p>
+      </div>
+    </section>
   );
 }
 

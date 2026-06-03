@@ -4,10 +4,10 @@ function Hero() {
       <h1>Serve Society. Build Community.</h1>
 
       <p>
-        Transforming Free Time into Meaningful Social Impact
+        Transforming free time into meaningful social impact.
       </p>
 
-      <button>Get Started</button>
+      <button>Explore Activities</button>
     </section>
   );
 }

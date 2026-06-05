@@ -1,13 +1,17 @@
 export default function Footer() {
   return (
-    <footer className="bg-gray-900 text-white text-center py-8">
-      <h2 className="text-xl font-bold">
-        KartavyaMithra
-      </h2>
+    <footer className="bg-gray-900 text-white py-8">
+      <div className="max-w-7xl mx-auto px-6 text-center">
 
-      <p className="mt-2">
-        Transforming Free Time into Meaningful Social Impact
-      </p>
+        <h2 className="text-2xl font-bold">
+          KartavyaMitra
+        </h2>
+
+        <p className="mt-3 text-gray-400">
+          Transforming Free Time into Meaningful Social Impact
+        </p>
+
+      </div>
     </footer>
   );
 }

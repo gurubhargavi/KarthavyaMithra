@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6 text-center">
 
         <h2 className="text-2xl font-bold">
-          KartavyaMitra
+          KartavyaMithra
         </h2>
 
         <p className="mt-3 text-gray-400">

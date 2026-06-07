@@ -7,7 +7,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
 
         <h1 className="text-2xl font-bold text-green-700">
-          KartavyaMitra
+          KartavyaMithra
         </h1>
 
         <ul className="hidden md:flex gap-8 font-medium">
